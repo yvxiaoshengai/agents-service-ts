@@ -1,0 +1,9 @@
+packages:
+  - "packages/shared"
+  - "packages/core"
+  - "apps/cli"
+  - "apps/gui"
+  - "sdk"
+  - "plugins"
+  - "test-utils"
+  - "scripts"

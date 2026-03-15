@@ -1,0 +1,29 @@
+{
+  "references": [
+    {
+      "path": "packages/shared"
+    },
+    {
+      "path": "packages/core"
+    },
+    {
+      "path": "apps/cli"
+    },
+    {
+      "path": "apps/gui"
+    },
+    {
+      "path": "sdk"
+    },
+    {
+      "path": "plugins"
+    },
+    {
+      "path": "test-utils"
+    },
+    {
+      "path": "scripts"
+    }
+  ],
+  "files": []
+}
